@@ -1,7 +1,7 @@
 ---
-title: Mastering Tailwind CSS: Utility-First Styling for Rapid UI Development
+title: Mastering Tailwind CSS. Utility-First Styling for Rapid UI Development
 author: Caleb Mabry
-pubDatetime: 2025-12-25T04:29:26Z
+pubDatetime: 2025-02-08T11:00:00Z
 slug: mastering-tailwind-css
 featured: false
 tags:
