@@ -1,7 +1,7 @@
 ---
 title: "Understanding Web Security Common Vulnerabilities and Protections"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-12-24T00:00:00.000Z
 slug: web-security-guide
 featured: false
 tags:

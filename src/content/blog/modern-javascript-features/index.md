@@ -1,7 +1,7 @@
 ---
 title: "Exploring Modern JavaScript Features ES6 and Beyond"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-06-12T08:00:00.000Z
 slug: modern-javascript-features
 featured: false
 tags:

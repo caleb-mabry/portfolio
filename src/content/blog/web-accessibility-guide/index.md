@@ -1,7 +1,7 @@
 ---
 title: "Understanding Web Accessibility A Guide for Developers"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-11-05T08:00:00.000Z
 slug: web-accessibility-guide
 featured: false
 tags:

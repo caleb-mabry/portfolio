@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Command Line Essential Tools and Tricks"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-07-31T00:00:00.000Z
 slug: command-line-mastery
 featured: false
 tags:

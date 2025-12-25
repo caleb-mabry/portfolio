@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous JavaScript Promises Async/Await Explained"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-04-24T16:00:00.000Z
 slug: async-javascript-explained
 featured: false
 tags:

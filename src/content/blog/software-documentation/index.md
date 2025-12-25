@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Documentation in Software Projects"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-10-12T00:00:00.000Z
 slug: software-documentation
 featured: false
 tags:

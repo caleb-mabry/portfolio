@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your First Programming Language A Beginner's Guide"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-11-29T16:00:00.000Z
 slug: first-programming-language
 featured: false
 tags:

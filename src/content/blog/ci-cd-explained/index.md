@@ -1,7 +1,7 @@
 ---
 title: "Continuous Integration and Continuous Deployment CI/CD Explained"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-06-12T08:00:00.000Z
 slug: ci-cd-explained
 featured: false
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Serverless Architectures Building Scalable Applications"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-02-10T16:00:00.000Z
 slug: intro-to-serverless
 featured: false
 tags:

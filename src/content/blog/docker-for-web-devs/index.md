@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Docker for Web Developers"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-10-12T00:00:00.000Z
 slug: docker-for-web-devs
 featured: false
 tags:

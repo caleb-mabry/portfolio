@@ -1,7 +1,7 @@
 ---
 title: "Demystifying REST APIs A Beginner's Guide"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-09-17T16:00:00.000Z
 slug: rest-api-guide
 featured: false
 tags:

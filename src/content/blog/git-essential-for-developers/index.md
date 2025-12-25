@@ -1,7 +1,7 @@
 ---
 title: The Power of Version Control, Why Git is Essential for Every Developer
 author: Caleb Mabry
-pubDatetime: 2025-12-25T04:29:26Z
+pubDatetime: 2024-03-07T00:00:00.000Z
 slug: git-essential-for-developers
 featured: false
 tags:

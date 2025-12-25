@@ -1,7 +1,7 @@
 ---
 title: Exploring Astro. A Deep Dive into Modern Web Development
 author: Caleb Mabry
-pubDatetime: 2025-01-24T04:29:26Z
+pubDatetime: 2023-12-25T00:00:00.000Z
 slug: exploring-astro
 featured: false
 tags:

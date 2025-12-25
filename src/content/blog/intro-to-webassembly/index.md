@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with WebAssembly Bringing Other Languages to the Web"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-03-31T08:00:00.000Z
 slug: intro-to-webassembly
 featured: false
 tags:

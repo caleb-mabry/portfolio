@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of CSS From Floats to Modern Layouts"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-11-05T08:00:00.000Z
 slug: evolution-of-css
 featured: false
 tags:

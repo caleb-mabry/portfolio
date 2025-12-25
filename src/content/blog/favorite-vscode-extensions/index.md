@@ -1,7 +1,7 @@
 ---
 title: My Favorite VS Code Extensions for Productivity
 author: Caleb Mabry
-pubDatetime: 2025-03-10T09:00:00Z
+pubDatetime: 2024-02-11T16:00:00.000Z
 slug: favorite-vscode-extensions
 featured: false
 tags:

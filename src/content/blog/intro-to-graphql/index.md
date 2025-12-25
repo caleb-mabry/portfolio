@@ -1,7 +1,7 @@
 ---
 title: "Introduction to GraphQL A Flexible Alternative to REST"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-01-17T08:00:00.000Z
 slug: intro-to-graphql
 featured: false
 tags:

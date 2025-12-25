@@ -1,7 +1,7 @@
 ---
 title: "Testing in JavaScript Best Practices and Frameworks"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-05-19T00:00:00.000Z
 slug: javascript-testing-guide
 featured: false
 tags:

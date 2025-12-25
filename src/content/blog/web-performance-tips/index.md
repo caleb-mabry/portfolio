@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Web Performance Tips and Tricks"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-11-29T16:00:00.000Z
 slug: web-performance-tips
 featured: false
 tags:

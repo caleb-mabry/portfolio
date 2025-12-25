@@ -1,7 +1,7 @@
 ---
 title: "The Benefits of Open Source Contribution for Developers"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-07-06T16:00:00.000Z
 slug: open-source-benefits
 featured: false
 tags:

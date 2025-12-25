@@ -1,7 +1,7 @@
 ---
 title: "Introduction to TypeScript Benefits and Basic Usage"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-03-07T00:00:00.000Z
 slug: intro-to-typescript
 featured: false
 tags:

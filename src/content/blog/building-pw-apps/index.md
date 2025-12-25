@@ -1,7 +1,7 @@
 ---
 title: "Building Progressive Web Apps PWAs for Enhanced User Experience"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-05-19T00:00:00.000Z
 slug: building-pw-apps
 featured: false
 tags:

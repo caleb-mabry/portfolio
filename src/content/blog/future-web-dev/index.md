@@ -1,7 +1,7 @@
 ---
 title: "The Future of Web Development Emerging Trends to Watch"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-12-24T00:00:00.000Z
 slug: future-web-dev
 featured: false
 tags:

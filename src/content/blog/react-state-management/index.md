@@ -1,7 +1,7 @@
 ---
 title: "State Management in React Choosing the Right Approach"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2025-08-24T08:00:00.000Z
 slug: react-state-management
 featured: false
 tags:

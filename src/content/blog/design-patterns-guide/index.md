@@ -1,7 +1,7 @@
 ---
 title: "Understanding Design Patterns in Software Development"
 author: Caleb Mabry
-pubDatetime: 2025-12-25T20:14:28Z
+pubDatetime: 2024-09-17T16:00:00.000Z
 slug: design-patterns-guide
 featured: false
 tags:
